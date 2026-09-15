@@ -1,6 +1,6 @@
 {
   "name": "けいさんバトル",
-  "short_name": "けいさん",
+  "short_name": "けいさんバトル！",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f4f7fb",
