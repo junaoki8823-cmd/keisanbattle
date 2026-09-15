@@ -1,1 +1,16 @@
-{"name":"けいさんバトル","short_name":"けいさんバトル","start_url":"./index.html","display":"standalone","background_color":"#f4f7fb","theme_color":"#111827","lang":"ja"}
+{
+  "name": "けいさんバトル",
+  "short_name": "けいさん",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#111827",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "Icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
